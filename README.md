@@ -46,7 +46,7 @@ The Star schema looks like:
 #### Task 3: Create the data in PostgreSQL
 
 - Download the script file and place it in a folder where you can run a Python script
-- Download the data files from the classroom resources
+- Download the data files from the classroom resources or [this link](https://video.udacity-data.com/topher/2022/March/622a5fc6_azure-data-warehouse-projectdatafiles/azure-data-warehouse-projectdatafiles.zip)
 - Open the script file in VS Code and add the host, username, and password information for your PostgreSQL database
 - Run the script and verify that all four data files are copied/uploaded into PostgreSQL
 You can verify this data exists by using pgAdmin or a similar PostgreSQL data tool.
